@@ -32,7 +32,17 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.id {
+  color: black;
+  border: 0
+}
+
+.id:hover {
+  color: #92388A
 }
